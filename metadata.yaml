@@ -1,0 +1,32 @@
+_repo: What-I-Saw-in-California--13-A-Description-of-Its-Soil-Climate-Productions-and-Gold-Mines-wit__13002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryant, Edwin
+    birthdate: 1805
+    deathdate: 1869
+    gutenberg_agent_id: '4769'
+    url: http://www.gutenberg.org/2009/agents/4769
+description: ''
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'F850.5'
+- !lcsh 'California -- Description and travel'
+- GITenberg
+title: "What I Saw in California\r\nA Description of Its Soil, Climate, Productions,\
+  \ and Gold Mines, with the Best Routes and Latest Information for Intending Emigrants;\
+  \ to Which is Annexed an Appendix Containing Official Documents and Letters Authenticating\
+  \ the Accounts of the Quantities of Gold Found, with Its Actual Value Ascertained\
+  \ by Chemical Assay; also Late Communications Containing Accounts of the Highest\
+  \ Interest and Importance from the Gold Districts; with a Map"
+url: http://www.gutenberg.org/ebooks/13002
